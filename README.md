@@ -49,7 +49,7 @@ Sou um estudante de programação focado em construir uma base sólida em tecnol
 ### 📊 `Estatísticas do GitHub`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pablo-numsei&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Pablo-numsei&theme=gotham&hide_border=true" alt="Estatísticas de sequência do GitHub" />
 </div>
 
 ---
