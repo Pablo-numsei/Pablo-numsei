@@ -42,33 +42,36 @@ Sou um estudante de programação focado em construir uma base sólida em tecnol
 ![Git](https://img.shields.io/badge/git-%231a1a1a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-%231a1a1a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%231a1a1a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%230078D4)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%231a1a1a.svg?style=for-the-badge&logo=intellij-idea&logoColor=%23000000)
- 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ---
- 
+
 ### 📊 `Estatísticas do GitHub`
- 
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DogShown&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Pablo-numsei&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
 </div>
- 
+
 ---
- 
+
 ### 📬 `Vamos nos conectar?`
- 
+
 Gosto de trocar ideias sobre tecnologia, arquitetura de sistemas e desafios de código. Se quiser conversar, você pode me encontrar aqui:
- 
+
 <div align="center">
-<a href="https://linkedin.com/in/ester-beserra-dos-santos-4557183b6" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:esterb2107@gmail.com">
-<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+  <a href="https://github.com/Pablo-numsei" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-augusto143" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Augustopablo620@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
- 
+
 ---
- 
+
 <div align="center">
-<sub>Continuamente transformando café em código... ☕💻</sub>
+  <sub>Continuamente transformando café em código... ☕💻</sub>
 </div>
