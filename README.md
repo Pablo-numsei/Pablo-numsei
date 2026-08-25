@@ -12,222 +12,63 @@
 
 </div>
 
----
 
-## `> SYSTEM.INIT()`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PABLO.AUGUSTO.exe                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  STATUS        : ONLINE                                      ║
-║  ROLE          : STUDENT / DEVELOPER                         ║
-║  SPECIALTY     : SOFTWARE DEVELOPMENT                        ║
-║  ENVIRONMENT   : WEB + BACKEND                               ║
-║  CURRENT MODE  : LEARNING / BUILDING                         ║
-║  ACCESS LEVEL  : DEVELOPER                                   ║
-╚══════════════════════════════════════════════════════════════╝
-> ABOUT_ME
-public class Pablo {
-
-    String name = "Pablo Augusto";
-    String role = "Student & Developer";
-
-    String[] stack = {
-        "Java",
-        "JavaScript",
-        "React",
-        "Spring Boot",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "MySQL"
-    };
-
-    String[] currentFocus = {
-        "Backend Development",
-        "REST APIs",
-        "Databases",
-        "React",
-        "Clean Code"
-    };
-
-    String mindset = "Learn → Build → Test → Improve";
-}
-Sou estudante e desenvolvedor em formação, focado em desenvolvimento web e backend.
-Atualmente estudo e desenvolvo projetos utilizando Java, Spring Boot, JavaScript e React, além de HTML, CSS, Bootstrap e MySQL.
-Meu objetivo é evoluir através de projetos reais, fortalecendo lógica de programação, desenvolvimento de APIs, bancos de dados, frontend e arquitetura de aplicações.
-> TECH_STACK
-�
-
-�
-￼
-
-
-
-�
-￼ ￼ ￼ ￼
-�
-
-
-�
-￼ ￼ ￼ ￼
-�
-
-> TOOLS
-�
-
-�
-￼
-
-
-
-�
-￼ ￼ ￼ ￼ ￼
-�
-
-> SKILLS.MATRIX
-Área
-Tecnologias
-Frontend
-HTML5, CSS3, JavaScript, React
-UI / Frameworks
-Bootstrap
-Backend
-Java, Spring Boot
-APIs
-REST API
-Database
-MySQL
-Version Control
-Git, GitHub
-IDE / Tools
-IntelliJ IDEA, VS Code, Postman
-Current Level
-Básico → Em evolução
-> PROJECTS
-�
-
-�
-
-�
-
-TABLEHUB
-Sistema web para restaurantes, desenvolvido como projeto acadêmico, com foco em digitalização de pedidos e gerenciamento.
-Stack
-React JavaScript Spring Boot MySQL
-�
-￼ 
-�
-
-�
-
-WEB PROJECTS
-Projetos para praticar interfaces, responsividade, componentes, animações e interação com o usuário.
-Stack
-HTML CSS JavaScript Bootstrap
-�
-￼ 
-�
-
-�
-
-�
-
-�
-
-JAVA PROJECTS
-Projetos acadêmicos e exercícios para desenvolver lógica, orientação a objetos, arrays, coleções e entrada de dados.
-Stack
-Java OOP Collections
-�
-￼ 
-�
-
-�
-
-REACT PROJECTS
-Aplicações frontend para praticar componentes, estados, organização de projetos e consumo de APIs.
-Stack
-React JavaScript Vite CSS
-�
-￼ 
-�
-
-�
-
-�
-
-> CURRENT_OBJECTIVES
-┌──(pablo㉿github)-[~/development]
-└─$ cat objectives.txt
-
-[01] ████████████████████  Java
-[02] █████████████████░░░  Spring Boot
-[03] ████████████████░░░░  REST APIs
-[04] ███████████████░░░░░  MySQL
-[05] ███████████████░░░░░  React
-[06] █████████████░░░░░░░  JavaScript
-[07] ████████████░░░░░░░░  Git & GitHub
-
-> NEXT_TARGET:
-> Build more real-world applications.
-> GITHUB_ANALYTICS
-�
-
-�
-￼
-�
-￼
-
-
-
-�
-￼
-�
-
-> ACTIVITY_GRAPH
-�
-
-�
-￼
-�
-
-> GITHUB_TROPHIES
-�
-
-�
-￼
-�
-
-> CONTRIBUTION_MATRIX
-�
-
-�
-
-
+<div align="center">
+<!-- Headline Profissional com Animação estilo Terminal/Dev -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF¢er=true&vC… alt="Typing SVG" />
+</div>
  
-�
-
-> SOCIAL_NETWORK
-�
-
-�
-￼ 
-�
-￼ 
-�
-
-�
-
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              SYSTEM STATUS: OPERATIONAL                     ║
-║                                                              ║
-║       "The future is built one line of code at a time."      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-�
-￼
-�
-```
+---
+ 
+### 💻 `Sobre Mim`
+ 
+Sou um estudante de programação focado em construir uma base sólida em tecnologia da informação. Atualmente, estou explorando o universo do código com o objetivo claro de me tornar um **Full-Stack**, dedicando meus estudos à arquitetura de sistemas, desenvolvimento de aplicações e boas práticas de código.
+ 
+- 🎯 **Objetivo atual:** Dominar o desenvolvimento de software e a construção de sistemas eficientes e escaláveis.
+- 📚 **Aprendendo constantemente:** Praticando lógica de programação, versionamento de código e desenvolvimento Full Stack.
+ 
+---
+ 
+### 🛠️ `Tech Stack & Ferramentas`
+ 
+#### Linguagens e Tecnologias:
+![Java](https://img.shields.io/badge/java-%231a1a1a.svg?style=for-the-badge&logo=openjdk&logoColor=%23F89820)
+![JavaScript](https://img.shields.io/badge/javascript-%231a1a1a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%231a1a1a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%231a1a1a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/css3-%231a1a1a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+ 
+#### Ferramentas e IDEs:
+![Git](https://img.shields.io/badge/git-%231a1a1a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
+![GitHub](https://img.shields.io/badge/github-%231a1a1a.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%231a1a1a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%230078D4)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%231a1a1a.svg?style=for-the-badge&logo=intellij-idea&logoColor=%23000000)
+ 
+---
+ 
+### 📊 `Estatísticas do GitHub`
+ 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DogShown&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+ 
+---
+ 
+### 📬 `Vamos nos conectar?`
+ 
+Gosto de trocar ideias sobre tecnologia, arquitetura de sistemas e desafios de código. Se quiser conversar, você pode me encontrar aqui:
+ 
+<div align="center">
+<a href="https://linkedin.com/in/ester-beserra-dos-santos-4557183b6" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:esterb2107@gmail.com">
+<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
+ 
+---
+ 
+<div align="center">
+<sub>Continuamente transformando café em código... ☕💻</sub>
+</div>
